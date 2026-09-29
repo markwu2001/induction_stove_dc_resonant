@@ -1,0 +1,6 @@
+LIBRARY "heater_induction.dll"
+DESCRIPTION 'heater_induction as a DLL'
+EXETYPE NT
+SUBSYSTEM WINDOWS
+CODE SHARED EXECUTE
+DATA WRITE
